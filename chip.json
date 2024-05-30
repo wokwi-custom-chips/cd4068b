@@ -1,0 +1,22 @@
+{
+  "name": "cd4068b",
+  "docs": "https://github.com/wokwi-custom-chips/sn5454/blob/main/docs/README.md",
+  "author": "algovoid",
+  "pins": [
+    "K",
+    "A",
+    "B",
+    "C",
+    "D",
+    "NC",
+    "GND",
+    "NC",
+    "E",
+    "F",
+    "G",    
+    "H",
+    "J",
+    "VCC"
+  ],
+  "controls": []
+}
