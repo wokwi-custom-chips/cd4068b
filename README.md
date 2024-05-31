@@ -1,4 +1,4 @@
-# 8-Input NADN/AND Gate
+# 8-Input NAND/AND Gate
 
 Custom chip for [Wokwi](https://wokwi.com/).
 
